@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="cube.gif" width="320" alt="Rotating cube with a snow leopard on every face"><br>
+  <img src="snow-leopard-cube.gif" width="268" alt="Rotating cube with a snow leopard on every face"><br>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="kalkaro-dark.gif">
-    <img src="kalkaro-light.gif" width="360" alt="Kalkaro">
+    <source media="(prefers-color-scheme: dark)" srcset="kalkaro-gray-dark.gif">
+    <img src="kalkaro-gray-light.gif" width="340" alt="Kalkaro">
   </picture>
 </p>
