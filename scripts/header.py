@@ -25,7 +25,7 @@ ROWS = [
     (None, "python · typescript"),
     ("building", "wave-launcher · aial"),
     (None, "vapor · palettegen"),
-    (None, "t3code-dithered"),
+    (None, "asterisk-ofix"),
 ]
 NAME = "Kalkaro"
 # Text colour per GitHub theme. The header is transparent, so white would vanish on light.
